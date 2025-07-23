@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Books Hub - Library Management System</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Bootstrap CSS CDN -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    body {
-      padding-top: 3rem;
-      padding-bottom: 3rem;
-      background-color: #f8f9fa;
-    }
-    .feature-icon {
-      font-size: 1.5rem;
-      color: #0d6efd;
-    }
-  </style>
-</head>
-<body>
+
 
 <div class="container">
   <div class="text-center mb-5">
@@ -80,19 +60,8 @@
       <li class="list-group-item">Place the project folder inside <code>htdocs</code> directory (e.g. <code>C:\xampp\htdocs\books-hub</code>).</li>
       <li class="list-group-item">Import the <code>books_hub.sql</code> file into phpMyAdmin to set up the database.</li>
       <li class="list-group-item">Update database connection settings in <code>config.php</code>.</li>
-      <li class="list-group-item">Open the project in your browser: <br><code>http://localhost/books-hub</code></li>
+      <li class="list-group-item">Open the project in your browser: <br><code>http://localhost/library-management-system/admin</code></li>
     </ol>
   </section>
 
-  <section class="mb-5">
-    <h2>📸 Screenshots</h2>
-    <p><em>(Add your screenshots here for better visual presentation)</em></p>
-  </section>
-
-  <footer class="text-center mt-5">
-    <p class="text-muted">© 2025 Books Hub | Developed using PHP & MySQL</p>
-  </footer>
-</div>
-
-</body>
-</html>
+  
