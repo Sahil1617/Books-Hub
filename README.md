@@ -39,7 +39,6 @@
 
   <section class="mb-5">
     <h2>✨ Features</h2>
-
     <div class="card mb-4">
       <div class="card-header bg-primary text-white">🧑‍💼 Admin Panel</div>
       <ul class="list-group list-group-flush">
@@ -49,7 +48,6 @@
         <li class="list-group-item">📄 View Issued Book Reports</li>
       </ul>
     </div>
-
     <div class="card mb-4">
       <div class="card-header bg-success text-white">👤 User Panel</div>
       <ul class="list-group list-group-flush">
@@ -58,7 +56,6 @@
         <li class="list-group-item">📦 Track Issued Books</li>
       </ul>
     </div>
-
     <div class="card mb-4">
       <div class="card-header bg-warning text-dark">🔒 Authentication System</div>
       <ul class="list-group list-group-flush">
@@ -66,7 +63,6 @@
         <li class="list-group-item">🕒 Session Management</li>
       </ul>
     </div>
-
     <div class="card mb-4">
       <div class="card-header bg-info text-white">📊 Dashboard</div>
       <ul class="list-group list-group-flush">
